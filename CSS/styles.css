@@ -9,3 +9,23 @@
     background-color: var(--primary);
     border-color: var(--primary); /* Si vous souhaitez également modifier la couleur de la bordure */
 }
+
+.progress-text {
+    color: white; 
+    text-align: center; 
+    position: absolute; 
+    width: 100%; 
+    top: 50%; 
+    transform: translateY(-50%); 
+}
+.progress {
+    height: 20px; /* Hauteur des barres de progression */
+}
+
+.progress-bar {
+    height: 100%; /* Hauteur de la barre de progression */
+}
+
+.progress-text {
+    line-height: 20px; /* Pour centrer verticalement le texte */
+}
