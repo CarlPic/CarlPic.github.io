@@ -2,4 +2,4 @@
 
 Lien vers le site : https://carlpic.github.io/
 
-![image](https://github.com/CarlPic/CarlPic.github.io/assets/161587689/985645d9-650e-459b-aa10-e52eedb2c04b)
+![image](https://github.com/CarlPic/CarlPic.github.io/blob/main/img/Screenshot%202024-05-28%20at%2016-05-33%20Carl%20Pichard%20-%20Portfolio.png)
